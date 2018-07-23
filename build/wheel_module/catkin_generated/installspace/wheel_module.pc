@@ -1,0 +1,8 @@
+prefix=/home/roktober/last/install
+
+Name: wheel_module
+Description: Description of wheel_module
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/roktober/last/install/lib 
+Requires: 
